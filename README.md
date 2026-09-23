@@ -10,7 +10,7 @@ This repository contains my submission for **Task 2** of the 6-week virtual Data
 
 - **Name:** Titanic Dataset
 - **Source:** [Kaggle — Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
-- **File used:** `titanic.csv`
+- **File used:** `train.csv`
 - **Size:** 891 passengers, 12 attributes
 - **Description:** The dataset includes passenger details such as age, sex, passenger class, fare, number of siblings/spouses and parents/children aboard, and whether they survived (`Survived`: 1 = survived, 0 = did not survive).
 
@@ -78,7 +78,7 @@ Chart images are available in the [`visuals/`](visuals/) folder.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-survival-analysis.git
+   git clone https://github.com/syeda-devops/titanic-survival-analysis.git
    ```
 2. Download `train.csv` from the [Kaggle Titanic competition page](https://www.kaggle.com/c/titanic/data).
 3. Open `Titanic_Survival_Analysis_Task2.ipynb` in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook.
